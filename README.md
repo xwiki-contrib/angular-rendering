@@ -7,4 +7,4 @@ To install:
 * Start typing!
 
 Example:
-![Livew preview](https://www.evernote.com/shard/s119/sh/d45e2995-475d-4140-b9a1-d13557112f20/f4267f1baa155e17f942a952863efa00/res/0ddf817b-a592-4414-b4f5-246af380b497/skitch.png)
+![Live preview](https://www.evernote.com/shard/s119/sh/d45e2995-475d-4140-b9a1-d13557112f20/f4267f1baa155e17f942a952863efa00/res/0ddf817b-a592-4414-b4f5-246af380b497/skitch.png)
